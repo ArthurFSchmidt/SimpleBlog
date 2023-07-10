@@ -1,0 +1,13 @@
+.img {
+    width: 100%;
+}
+
+.post {
+    min-height: 200px;
+}
+.container {
+    background-color: #fff;
+}
+body {
+    background-color: #edf0d9;
+}
