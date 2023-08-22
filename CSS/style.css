@@ -1,13 +1,45 @@
 .img {
     width: 100%;
+    border-radius: 15px 0px 0px 15px;
+    border-right: 5px solid #a04dff ;
 }
-
 .post {
     min-height: 200px;
 }
 .container {
-    background-color: #fff;
+    background-color: #fcfff1;
 }
 body {
-    background-color: #edf0d9;
+    background-color: #e6e1ff;
+}
+header {
+    background-color: #a04dff;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    text-align: justify;
+}
+h3:hover{
+    color: #a04dff;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}   
+hr {
+    color: #a04dff;
+}
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    font-size: 58px;
+    color: #fff;
+}
+footer {
+    min-height: 30px;
 }
